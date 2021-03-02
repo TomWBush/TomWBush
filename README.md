@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="./images/omfgdogs.gif" width="493" height="190"/>!
+
 <!--
 <img src="./images/omfgdogs.gif" width="493" height="190"/>![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomWBush&count_private=true&theme=flag-india)
 
