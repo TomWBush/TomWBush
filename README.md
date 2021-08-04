@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is a <a href="https://portfolio.tomwang.space/" target="_blank">portfolio</a> for the Unity games I made since I am taking Game Development class this semester.
+This is my <a href="https://portfolio.tomwang.space/" target="_blank">portfolio</a> for the Unity games I created in Game Development class during Winter 2020.
 
 <img src="./images/omfgdogs.gif" width="493" height="190"/>!
 
