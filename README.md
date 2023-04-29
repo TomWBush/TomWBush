@@ -1,10 +1,11 @@
+<!--
+
 ### Hi there 👋
 
 This is my <a href="https://portfolio.tomwang.space/" target="_blank">portfolio</a> for the Unity games I created in Game Development class during Winter 2020.
 
 <img src="./images/omfgdogs.gif" width="493" height="190"/>!
 
-<!--
 <img src="./images/omfgdogs.gif" width="493" height="190"/>![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomWBush&count_private=true&theme=flag-india)
 
 
